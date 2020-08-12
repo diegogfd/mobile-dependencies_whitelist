@@ -577,11 +577,11 @@
     },
     {
       "name": "PointFlowEngine",
-      "version": null
+      "version": "[0-9]+\.[0-9]+\.[0-9]+$"
     },
     {
       "name": "PointUI",
-      "version": null
+      "version": "[0-9]+\.[0-9]+\.[0-9]+$"
     },
     {
       "name": "GarexGpage",
